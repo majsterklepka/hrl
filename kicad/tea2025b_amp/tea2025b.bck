@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEA2025b
+D audio amplifier
+F ./doc/tea2025b.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tea2025b)(type Legacy)(uri ${KIPRJMOD}/tea2025b.lib)(options "")(descr ""))
+  (lib (name tea2025b_amp-rescue)(type Legacy)(uri ${KIPRJMOD}/tea2025b_amp-rescue.lib)(options "")(descr ""))
+)

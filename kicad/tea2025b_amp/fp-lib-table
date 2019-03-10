@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name tea2025b-lib)(type KiCad)(uri ${KIPRJMOD}/tea2025b-lib.pretty)(options "")(descr ""))
+)
