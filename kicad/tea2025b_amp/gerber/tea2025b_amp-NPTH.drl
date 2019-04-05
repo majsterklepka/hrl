@@ -1,5 +1,5 @@
 M48
-;DRILL file {KiCad 5.0.2-5.fc29} date sob, 9 mar 2019, 14:00:19
+;DRILL file {KiCad 5.0.2-5.fc29} date pią, 5 kwi 2019, 16:49:55
 ;FORMAT={2:4/ absolute / inch / keep zeros}
 FMAT,2
 INCH,TZ
@@ -15,7 +15,7 @@ X052875Y-028610
 T2
 X055435Y-027150
 T3
-X065598Y-026053
-X051819Y-047706
+X051800Y-047725
+X065575Y-026050
 T0
 M30

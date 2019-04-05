@@ -87,7 +87,7 @@ P 4850 3300
 F 0 "C2" V 4800 3200 50  0000 C CNN
 F 1 "0.22u" V 4900 3150 50  0000 C CNN
 F 2 "Capacitor_THT:C_Rect_L4.6mm_W5.5mm_P2.50mm_MKS02_FKP02" H 4888 3150 50  0001 C CNN
-F 3 "/home/majsterklepka/Dokumenty/Kicad/tea2025b_audio_amp/tea2025b_amp/doc/eadmlcc_halogenfree_fg_en-775693.pdf" H 4850 3300 50  0001 C CNN
+F 3 "${KIPRJMOD}/doc/eadmlcc_halogenfree_fg_en-775693.pdf" H 4850 3300 50  0001 C CNN
 	1    4850 3300
 	0    1    1    0   
 $EndComp
