@@ -1,0 +1,24 @@
+multiwibrator tranzystorowy
+
+.model QMOD NPN level=2 IC=0.6
+
+V1 1 0 dc 5.0V
+Q1 2 3 0 QMOD	
+Q2 5 4 0 QMOD
+R1 1 2 2.2k 
+R2 1 4 100k
+R3 1 3 100k
+R4 1 5 2.2k
+C1 4 2 0.1u
+C2 3 5 0.1u
+
+.control
+op
+tran 5e-6 5e-2 
+plot v(2)
+plot v(3)
+plot v(4)
+plot v(3) v(4) 
+.endc
+
+.end
